@@ -4,7 +4,7 @@
 <p align="right"> <a href="https://twitter.com/munna_057" target="blank"><img src="https://img.shields.io/twitter/follow/munna_057?logo=twitter&style=for-the-badge" alt="munna_057" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C++**
 - 📫 How to reach me **kushawahapriyanshu57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
