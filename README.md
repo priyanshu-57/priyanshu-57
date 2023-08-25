@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kushawaha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-57&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-57" /> </p>
 <p align="right"> <a href="https://twitter.com/munna_057" target="blank"><img src="https://img.shields.io/twitter/follow/munna_057?logo=twitter&style=for-the-badge" alt="munna_057" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
+<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_1280.png">
 
 - 🌱 I’m currently learning **C++**
 - 📫 How to reach me **kushawahapriyanshu57@gmail.com**
