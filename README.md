@@ -5,7 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_1280.png">
 
 - 🌱 I’m currently learning **C++**
+  
 - 👯 I’m looking to collaborate for **C/C++** related project
+  
 - 📫 How to reach me **kushawahapriyanshu57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
