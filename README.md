@@ -42,7 +42,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="30"> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu-57&show_icons=true&locale=en&layout=compact" alt="priyanshu-57" /></p> 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-57&show_icons=true&locale=en&layout=compact" alt="Priyanshu-57" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-57&" alt="priyanshu-57" /></p>
 
 
