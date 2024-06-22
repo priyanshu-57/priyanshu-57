@@ -61,7 +61,7 @@
  <hr>
  
 <!-- Connect with Me -->
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me :</h3>
 <p align="center">
   <a href="https://linkedin.com/in/priyanshu-kushawaha" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-kushawaha-27142b222" height="30" width="40"  />
@@ -80,7 +80,7 @@
 <hr>
 
 <!-- Languages and Tools -->
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools :</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="auto">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="auto"> 
@@ -92,7 +92,7 @@
 <hr>
 
 <!-- GitHub Stats -->
-<h3 align="center">GitHub Stats: <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="30" width="30"/></h3>
+<h3 align="center">GitHub Stats <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="20" width="20"/> :</h3>
   
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-57&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Priyanshu-57" />
