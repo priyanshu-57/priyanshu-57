@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate Programmer.</h3>
-<p align="Middle"> <a href="https://github.com/priyanshu-57/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-57" alt="priyanshu-57" /></a> </p>
+<p align="Middle"> <a href="https://github.com/priyanshu-57/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-57" alt="priyanshu-57" /></a> </p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-57&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-57" /> </p>
-
+ 
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_1280.png">
 
 🌱 I’m currently learning **DSA**
@@ -43,9 +43,11 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-57&show_icons=true&locale=en&layout=compact" alt="Priyanshu-57" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-57&" alt="priyanshu-57" /></p>
+<p  align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-57&show_icons=true&locale=en&layout=compact" alt="Priyanshu-57" /></p> 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-57&show_icons=true&locale=en" alt="priyanshu-57" /></p>
+<p  align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-57&" alt="priyanshu-57" /></p>
+
+
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-57&show_icons=true&locale=en" alt="priyanshu-57" /></p>
 
