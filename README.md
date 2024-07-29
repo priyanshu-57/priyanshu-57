@@ -6,7 +6,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyanshu-57&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-57" />
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-57&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Priyanshu-57" />
 
 <!-- About Me -->
 🌱 I’m currently learning **DSA**  <br>
@@ -48,10 +47,12 @@
 
 <!-- GitHub Stats -->
 <h1 align="center">📊 GitHub Stats:</h1>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-57&show_icons=true&locale=en&theme=vue-dark" alt="priyanshu-57" /><br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-57&theme=vue-dark" alt="priyanshu-57" />
-</p>
+ <p align="center" margin="50px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-57&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-57&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-57&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+ </p>
+
 
 <!-- <br> 
 <h2 align="center">🔝 Top Contributed Repo</h2>
