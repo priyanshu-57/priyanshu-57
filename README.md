@@ -8,9 +8,9 @@
 </p>
 
 <!-- About Me -->
-🌱 I’m currently learning **DSA**  <br>
+🌱 I’m currently learning **Java**  <br>
 
-👯 I’m looking to collaborate for **C/C++** related project. <br>
+👯 I’m looking to collaborate for **Frontend** related project. <br>
 
 🔭 I’m currently working on Project:
    - [Flight Reservation System]   <br>
