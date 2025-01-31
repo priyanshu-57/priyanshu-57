@@ -13,7 +13,7 @@
 👯 I’m looking to collaborate for **Frontend** related project. <br>
 
 🔭 I’m currently working on Project:
-   - [Flight Reservation System]   <br>
+   - [Hospital Management System]   <br>
    
 🪴 **Recent Project**:
    - [Hotel static website](https://priyanshu57.000webhostapp.com/)<br>
