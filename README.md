@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate Programmer</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=priyanshu-57&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyanshu-57&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-57" />
