@@ -41,7 +41,8 @@
 <!--       <img class="badge" src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white"alt="MySQL" /> -->
       <img class="badge" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"alt="Git" />
       <img class="badge" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"alt="GitHub" />
-      <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" width="80" height="20" >  
+      <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" width="80" height="20" > 
+   <img class="badge" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" width="80" height="20" />
       <img class="badge" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
 </p>
 
