@@ -10,7 +10,7 @@
 <!-- About Me -->
 🌱 I’m currently learning **Java**  <br>
 
-👯 I’m looking to collaborate for **Frontend** related project. <br>
+👯 I’m looking to collaborate for **Web Development** related project. <br>
 
 🔭 I’m currently working on Project:
    - [Hospital Management System]   <br>
