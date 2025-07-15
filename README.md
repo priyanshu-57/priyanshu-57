@@ -10,7 +10,7 @@
 <!-- About Me -->
 🌱 I’m currently learning **Java**  <br>
 
-👯 I’m looking to collaborate for **Web Development** related project. <br>
+👯 I’m looking to work for **Web Development** related project. <br>
 
 🔭 I’m currently working on Project:
    - [Hospital Management System]   <br>
@@ -50,8 +50,8 @@
 <h1 align="center">📊 GitHub Stats:</h1>
  <p align="center" margin="50px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-57&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-57&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-57&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-57&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-57&theme=nightowl&hide_border=false" alt="GitHub Streak" /> -->
  </p>
 
 
