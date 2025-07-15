@@ -8,15 +8,17 @@
 </p>
 
 <!-- About Me -->
-🌱 I’m currently learning **Java**  <br>
+🌱 Skilled in **Frontend Web Development**  and **C/C++ programming** .  <br>
 
-👯 I’m looking to work for **Web Development** related project. <br>
+👯 I’m looking to work for **Frontend Web Development** and **C/C++ based projects** related project. <br>
 
-🔭 I’m currently working on Project:
-   - [Hospital Management System]   <br>
-   
 🪴 **Recent Project**:
    - [Hotel static website](https://priyanshu57.000webhostapp.com/)<br>
+   
+🔭 I'm currently working on Project: 
+   - [Hospital Management System]   <br>
+   
+
    
 📫 How to reach me **kushawahapriyanshu57@gmail.com**
  
