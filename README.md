@@ -10,7 +10,7 @@
 <!-- About Me -->
 🌱 Skilled in **Frontend Web Development**  and **C/C++ programming** .  <br>
 
-👯 I’m looking to work for **Frontend Web Development** and **C/C++ based projects**. <br>
+<!-- 👯 I’m looking to work for **Frontend Web Development** and **C/C++ based projects**. <br> -->
 
 🪴 **Recent Project**:
    - [Hotel static website](https://priyanshu57.000webhostapp.com/)<br>
